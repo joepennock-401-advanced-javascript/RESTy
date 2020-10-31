@@ -8,6 +8,7 @@ A simple API testing tool built out in React.
 
 ### Links and Resources
 
+- [codesandbox](https://codesandbox.io/s/resty-class-26-36kci?file=/src/App.js)
 - [ci/cd](http://xyz.com) (GitHub Actions)
 - [back-end server url](http://xyz.com) (when applicable)
 - [front-end application](http://xyz.com) (when applicable)
