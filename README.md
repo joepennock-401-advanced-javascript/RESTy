@@ -8,7 +8,7 @@ A simple API testing tool built out in React.
 
 ### Links and Resources
 
-- [codesandbox](https://codesandbox.io/s/resty-class-26-36kci?file=/src/App.js)
+- [codesandbox](https://codesandbox.io/s/resty-class-26-forked-cqxc7?file=/src/app.js)
 - [ci/cd](http://xyz.com) (GitHub Actions)
 - [back-end server url](http://xyz.com) (when applicable)
 - [front-end application](http://xyz.com) (when applicable)
@@ -54,6 +54,7 @@ i.e.
 - Describe any tests that you did not complete, skipped, etc
 
 #### UML
+
 Phase1 UML diagram:
 
 ![Basic component structure UML](assets/class-26-RESTy.svg)
